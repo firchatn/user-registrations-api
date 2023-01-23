@@ -51,7 +51,7 @@ live demo surpport here : http://51.83.77.185:8000/docs
 
 ##  File structure
 
-.
+
 ├── app
 │   ├── __init__.py
 │   ├── config.py
@@ -72,4 +72,3 @@ live demo surpport here : http://51.83.77.185:8000/docs
 
 ## RQ
 - Verification code is only printing.
-- 
